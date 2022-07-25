@@ -1,0 +1,18 @@
+h1{
+    color: whitesmoke;
+    text-align: center;
+}
+body{
+    background-image: url("2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    font-size: 1cm;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+a{
+    color: orange;
+}
